@@ -3,6 +3,9 @@ A base template for react projects with minimal webpack config, SASS &amp; hot-r
 
 # Getting started
 ```bash
+git clone https://github.com/balarka/react-webpack-template.git
+cd react-webpack-template
 npm install
 npm run dev
+open http://localhost:3333/
 ```
